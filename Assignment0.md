@@ -33,7 +33,7 @@ An incurable dreamer, hopeless romantic, unapologetic otaku, and budding storyte
 
 >I crave working on the edge of my capabilities and being pushed further than I thought possible, so that I can rise to the occasion. I have never coded before prior to taking this class and in all honesty, this assignment has been overwhelming and stressful, but I'm determined to push forward and succeed. 
 
->Travel and exploration has been a big influence of my work and hopefully, something that will continue to influence me as I start a new chapter here at Drexel. My hope is by the end of this term , not only will I have a website I built myself that I can use to showcase my portfolio, but the skills and knowledge to progress further in coding. 
+>Travel and exploration has been a big influence of my work and hopefully, something that will continue to influence me as I start a new chapter here at Drexel. My hope is by the end of this term, not only will I have a website I built myself that I can use to showcase my portfolio, but the skills and knowledge to progress further in coding. 
 
 ## Resume & Contact
 
